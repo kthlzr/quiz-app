@@ -2,6 +2,8 @@
 
 A simple quiz app built with HTML, CSS, JavaScript, and Bootstrap. The app dynamically loads questions, tracks scores, provides feedback, and allows users to answer multiple-choice questions.
 
+![image](https://i.ibb.co/7k3GPYZ/Screenshot-2024-12-15-235052.png)
+
 ## Features
 
 ### 1. **Dynamic Question and Option Loading**
